@@ -1,0 +1,130 @@
+{
+    "generated_at": "2026-11-03 11:15:26",
+    "total_prompts": 14,
+    "prompt_segments": [
+        {
+            "part": 1,
+            "script_segment": "For the next 5 seconds, don't say a single word. Now imagine doing that for an entire month—here is exactly how your brain starts rewriting itself on day 4. By Day 1, your brain panics. Without social chit-chat, your mind feels extremely loud, and you start talking to yourself inside your head on constant repeat.",
+            "sentence_prompts": [
+                {
+                    "prompt_number": 1,
+                    "sentence_number": 1,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "For the next 5 seconds, don't say a single word.",
+                    "flux_prompt": "Simple 2D stickman animation style, minimalist, expressive, clean black lines on a solid light gray background. A single black stickman character standing upright with a hand placed firmly over its mouth, wide-eyed expression of shock and silence, medium shot, clean vector aesthetic optimized for Flux 2 Klein 9b."
+                },
+                {
+                    "prompt_number": 2,
+                    "sentence_number": 2,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 2,
+                    "source_sentence": "Now imagine doing that for an entire month—here is exactly how your brain starts rewriting itself on day 4.",
+                    "flux_prompt": "Simple 2D stickman animation style, minimalist, expressive, clean black lines on a solid light gray background. A black stickman character sitting cross-legged with a calendar showing a full month marked off in the background, contemplative and overwhelmed expression, medium-wide shot, vector aesthetic optimized for Flux 2 Klein 9b."
+                },
+                {
+                    "prompt_number": 3,
+                    "sentence_number": 2,
+                    "scene_in_sentence": 2,
+                    "total_scenes_in_sentence": 2,
+                    "source_sentence": "Now imagine doing that for an entire month—here is exactly how your brain starts rewriting itself on day 4.",
+                    "flux_prompt": "Simple 2D stickman animation style, minimalist, expressive, clean black lines on a solid light gray background. A black stickman character holding its head with both hands, glowing digital brain outlines and sparks visible around the skull representing neurological changes on day 4, medium close-up, vector aesthetic optimized for Flux 2 Klein 9b."
+                },
+                {
+                    "prompt_number": 4,
+                    "sentence_number": 3,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "By Day 1, your brain panics.",
+                    "flux_prompt": "Simple 2D stickman animation style, minimalist, expressive, clean black lines on a solid light gray background. A black stickman character running in a panicked circle with chaotic zigzag motion lines around its head, wide eyes and open mouth, medium shot, vector aesthetic optimized for Flux 2 Klein 9b."
+                },
+                {
+                    "prompt_number": 5,
+                    "sentence_number": 4,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 2,
+                    "source_sentence": "Without social chit-chat, your mind feels extremely loud, and you start talking to yourself inside your head on constant repeat.",
+                    "flux_prompt": "Simple 2D stickman animation style, minimalist, expressive, clean black lines on a solid light gray background. A black stickman character surrounded by a dense cloud of multiple speech bubble outlines filled with chaotic repeating symbols, looking dizzy and overwhelmed, medium shot, vector aesthetic optimized for Flux 2 Klein 9b."
+                },
+                {
+                    "prompt_number": 6,
+                    "sentence_number": 4,
+                    "scene_in_sentence": 2,
+                    "total_scenes_in_sentence": 2,
+                    "source_sentence": "Without social chit-chat, your mind feels extremely loud, and you start talking to yourself inside your head on constant repeat.",
+                    "flux_prompt": "Simple 2D stickman animation style, minimalist, expressive, clean black lines on a solid light gray background. A black stickman character pointing a finger at its own temple, intense mental concentration, multiple overlapping thought lines radiating inward, close-up shot, vector aesthetic optimized for Flux 2 Klein 9b."
+                }
+            ]
+        },
+        {
+            "part": 2,
+            "script_segment": "By Day 10, something scary happens. Your brain's Default Mode Network shifts. Because you have no real voices to process, you might actually start hearing phantom sounds in silence. By Day 20, your internal voice changes completely. Without outside words, your thoughts become pure images and raw feelings instead of sentences. Finally, by Day 30, your brain adapts, but social re-entry feels impossible. Could you last a full month in total silence? Let me know in the comments and subscribe for more mind experiments.",
+            "sentence_prompts": [
+                {
+                    "prompt_number": 7,
+                    "sentence_number": 1,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "By Day 10, something scary happens.",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character standing in a room looking startled and terrified, wide eyes, hair standing up, dramatic lighting, medium shot, no text."
+                },
+                {
+                    "prompt_number": 8,
+                    "sentence_number": 2,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "Your brain's Default Mode Network shifts.",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character standing with a glowing abstract brain symbol hovering above its head, gears shifting and transforming, thoughtful expression, medium shot, no text."
+                },
+                {
+                    "prompt_number": 9,
+                    "sentence_number": 3,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "Because you have no real voices to process, you might actually start hearing phantom sounds in silence.",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character cupping its hand to its ear, floating curved soundwave lines near its head in complete silence, curious and uneasy expression, medium shot, no text."
+                },
+                {
+                    "prompt_number": 10,
+                    "sentence_number": 4,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "By Day 20, your internal voice changes completely.",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character pointing to its own head, speech bubble dissolving into abstract geometric shapes, calm and transformed expression, medium shot, no text."
+                },
+                {
+                    "prompt_number": 11,
+                    "sentence_number": 5,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "Without outside words, your thoughts become pure images and raw feelings instead of sentences.",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character with floating icons of glowing stars, hearts, and abstract pictures emerging from its head instead of text, dreamy expression, medium shot, no text."
+                },
+                {
+                    "prompt_number": 12,
+                    "sentence_number": 6,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "Finally, by Day 30, your brain adapts, but social re-entry feels impossible.",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character hiding behind a wall peeking out nervously at a crowd of other stickman silhouettes in the distance, overwhelmed expression, medium shot, no text."
+                },
+                {
+                    "prompt_number": 13,
+                    "sentence_number": 7,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "Could you last a full month in total silence?",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character sitting cross-legged next to a large calendar marked with a month, holding a giant question mark prop, curious expression, medium shot, no text."
+                },
+                {
+                    "prompt_number": 14,
+                    "sentence_number": 8,
+                    "scene_in_sentence": 1,
+                    "total_scenes_in_sentence": 1,
+                    "source_sentence": "Let me know in the comments and subscribe for more mind experiments.",
+                    "flux_prompt": "Simple 2D minimalist stickman animation style, clean lines, solid white background, a single black line-art stickman character smiling and pointing forward invitingly, small floating notification bell and comment bubble icons nearby, friendly pose, medium shot, no text."
+                }
+            ]
+        }
+    ]
+}
